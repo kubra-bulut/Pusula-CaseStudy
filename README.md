@@ -15,12 +15,12 @@ The dataset used in this project is related to drug side effects, containing sev
 
 1. Open the Google Colab notebook
 
-- Click on the "Open in Colab" button at the top of the notebook.
+  - Click on the "Open in Colab" button at the top of the notebook.
 
 2. Download the dataset
-- Download side_effect_data 1.xlsx from repository and upload it directly to the Colab environment.
+  - Download side_effect_data 1.xlsx from repository and upload it directly to the Colab environment.
 
 
 3. Follow the Instructions
-- The notebook includes detailed explanations for each step of the analysis. Ensure you run all cells in sequence to reproduce the results.
+  - The notebook includes detailed explanations for each step of the analysis. Ensure you run all cells in sequence to reproduce the results.
 
