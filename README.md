@@ -1,5 +1,5 @@
 # Data Science Case Study: Drug Side Effects Analysis
-Kubra Bulut
+Kübra Bulut
 
 **Email**: kubra.bulut@example.com
 
