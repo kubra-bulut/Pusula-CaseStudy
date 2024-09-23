@@ -1,7 +1,7 @@
 # Data Science Case Study: Drug Side Effects Analysis
 Kübra Bulut
 
-**Email**: kubra.bulut@example.com
+**Email**: kubra.bulut@gmail.com
 
 ## Overview
 This repository contains the Data Science case study assigned as part of the Pusula Internship. The focus of the project is on analyzing a dataset related to drug side effects. The goal is to perform an in-depth analysis, prepare the data for further predictive modeling, and summarize findings.
